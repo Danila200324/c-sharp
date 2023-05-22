@@ -1,0 +1,78 @@
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\appsettings.Development.json
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\appsettings.json
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\Rest.exe
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\Rest.deps.json
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\Rest.runtimeconfig.json
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\Rest.dll
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\Rest.pdb
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\CsvHelper.dll
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\LINQtoCSV.dll
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\System.Web.Http.dll
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\c prog\WebApplication2\Rest\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\Rest.csproj.AssemblyReference.cache
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\Rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\Rest.AssemblyInfoInputs.cache
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\Rest.AssemblyInfo.cs
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\Rest.csproj.CoreCompileInputs.cache
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\Rest.MvcApplicationPartsAssemblyInfo.cs
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\Rest.MvcApplicationPartsAssemblyInfo.cache
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\staticwebassets\msbuild.Rest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\staticwebassets\msbuild.build.Rest.props
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Rest.props
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Rest.props
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\staticwebassets.pack.json
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\staticwebassets.build.json
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\staticwebassets.development.json
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\scopedcss\bundle\Rest.styles.css
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\Rest.csproj.CopyComplete
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\Rest.dll
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\refint\Rest.dll
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\Rest.pdb
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\Rest.genruntimeconfig.cache
+C:\c prog\WebApplication2\Rest\obj\Debug\net7.0\ref\Rest.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\appsettings.json
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\Rest.exe
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\Rest.deps.json
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\Rest.runtimeconfig.json
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\Rest.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\Rest.pdb
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\LINQtoCSV.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\Rest.csproj.AssemblyReference.cache
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\Rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\Rest.AssemblyInfoInputs.cache
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\Rest.AssemblyInfo.cs
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\Rest.csproj.CoreCompileInputs.cache
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\Rest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\Rest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\staticwebassets\msbuild.Rest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\staticwebassets\msbuild.build.Rest.props
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Rest.props
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Rest.props
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\scopedcss\bundle\Rest.styles.css
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\Rest.csproj.CopyComplete
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\Rest.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\refint\Rest.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\Rest.pdb
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\Rest.genruntimeconfig.cache
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\Rest\Rest\obj\Debug\net7.0\ref\Rest.dll

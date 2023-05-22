@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "PgB3j76JtT+NxXv6MQI5jBOlbNeF2dZQ+Cx7T0ArA3OS5rFfls0JCWdeNG/E2sItYvDy7iwKnRi+yPsuHaUnAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danka\\c-projects\\tutorial1_ja-Danven2003\\ParserProject\\ParserProject\\ParserProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danka\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\danka\\.nuget\\packages\\linqtocsv\\1.5.0\\linqtocsv.1.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LINQtoCSV 1.5.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LINQtoCSV",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

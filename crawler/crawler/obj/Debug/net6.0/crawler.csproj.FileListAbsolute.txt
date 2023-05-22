@@ -1,0 +1,15 @@
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\bin\Debug\net6.0\crawler.exe
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\bin\Debug\net6.0\crawler.deps.json
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\bin\Debug\net6.0\crawler.runtimeconfig.json
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\bin\Debug\net6.0\crawler.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\bin\Debug\net6.0\crawler.pdb
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\obj\Debug\net6.0\crawler.csproj.AssemblyReference.cache
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\obj\Debug\net6.0\crawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\obj\Debug\net6.0\crawler.AssemblyInfoInputs.cache
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\obj\Debug\net6.0\crawler.AssemblyInfo.cs
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\obj\Debug\net6.0\crawler.csproj.CoreCompileInputs.cache
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\obj\Debug\net6.0\crawler.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\obj\Debug\net6.0\refint\crawler.dll
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\obj\Debug\net6.0\crawler.pdb
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\obj\Debug\net6.0\crawler.genruntimeconfig.cache
+C:\Users\danka\c-projects\tutorial1_ja-Danven2003\crawler\crawler\obj\Debug\net6.0\ref\crawler.dll
